@@ -1,0 +1,54 @@
+1. the host will choose how many players will participate in the game.
+Player colors:
+1. green
+2. blue
+3. yellow
+4. red
+5. purple
+6. orange
+
+total territory count: 24 territories.
+
+case1: total of 6 players:
+each player gets 4 initial territories,
+0 territories remain empty.
+
+case2: total of 5 players:
+each player gets 4 initial territories,
+4 territories remain empty.
+
+case3: total of 4 players:
+each player gets 6 initial territories, 
+0 territories remain empty.
+
+case4: total of 3 players:
+each player gets 8 initial territories,
+0 territories remain empty.
+
+case5: total of 2 players:
+each player gets 12 initial territories,
+0 territories remain empty.
+
+Start of the game:
+1. each player (either human or computer) will get 21 forces to reinforce.
+2. in each turn - each player gets to reinforce 1 force to an exising territory.
+3. this initial-reinforcement takes place until all players run out of the 21 initial forces that they have.
+
+regular move (human):
+1. will make some reinforcements (determined by the total owned territories + whole-continent bonus)
+2. click the territory - from which to send an attack.
+3. click an enemy territory in order to place an attack.
+4. Enter the "attacking screen".
+	a. for each strike - select how many dice to attack with (min-1, max-3)
+	b. enemy - if has 2/more forces - defend with 2 dice, 1/less forces - defend with 1 dice.
+		i. if the enemy defends with 2 dice - 2 of the highest attack dice will count.
+		ii. if the enemy defends with 1 dice - 1 of the highest attack dice will count.
+	c. autoroll - sacrifice all of my forces till either one of us gets defeated.
+5. player moving units - move forces from the attacking territory to the defending territory.
+	a. minimum 1 forces in the newly captured territory.
+	b. mimimum 1 forces in the attacked territory.
+
+6. press "finish attacking session".
+7. fortifiy - move forces from 1 territory to another.
+	a. the territories must have border string - a sequence of countries that have borders with one another.
+	b. the territories that we can fortifiy forces to - will have a border-colored glow (the color of my nation).

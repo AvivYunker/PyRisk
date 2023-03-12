@@ -1,0 +1,58 @@
+﻿2020-11-01 07:46:32.558 - ShareX starting.
+2020-11-01 07:46:32.566 - Version: 13.2.1
+2020-11-01 07:46:32.566 - Build: MicrosoftStore
+2020-11-01 07:46:32.566 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_13.2.1.0_x64__egrzcvs15399j\ShareX.exe" 
+2020-11-01 07:46:32.567 - Personal path: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)
+2020-11-01 07:46:32.567 - Personal path detection method: PersonalPath.cfg file (C:\Users\Aviv\Documents\ShareX\PersonalPath.cfg)
+2020-11-01 07:46:32.568 - Operating system: Windows 10 Enterprise N (64-bit)
+2020-11-01 07:46:32.570 - Running as elevated process: False
+2020-11-01 07:46:32.597 - Flags: SilentRun
+2020-11-01 07:46:32.637 - ApplicationConfig load started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\ApplicationConfig.json
+2020-11-01 07:46:33.479 - ApplicationConfig load finished: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\ApplicationConfig.json
+2020-11-01 07:46:33.485 - UploadersConfig load started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\UploadersConfig.json
+2020-11-01 07:46:33.490 - MainForm init started.
+2020-11-01 07:46:33.650 - UploadersConfig load finished: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\UploadersConfig.json
+2020-11-01 07:46:33.656 - HotkeysConfig load started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\HotkeysConfig.json
+2020-11-01 07:46:33.837 - HotkeysConfig load finished: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\HotkeysConfig.json
+2020-11-01 07:46:34.087 - MainForm init finished.
+2020-11-01 07:46:34.663 - Startup time: 2265 ms
+2020-11-01 07:46:34.688 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2020-11-01 07:46:34.689 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2020-11-01 07:46:34.689 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2020-11-01 07:46:34.689 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2020-11-01 07:46:34.689 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2020-11-01 07:46:34.692 - HotkeyManager started.
+2020-11-01 07:46:34.694 - WatchFolderManager started.
+2020-11-01 12:01:02.066 - ShareX closing.
+2020-11-01 12:01:02.090 - ApplicationConfig save started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\ApplicationConfig.json
+2020-11-01 12:01:02.720 - ApplicationConfig save successful: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\ApplicationConfig.json
+2020-11-01 12:01:02.722 - UploadersConfig save started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\UploadersConfig.json
+2020-11-01 12:01:02.894 - UploadersConfig save successful: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\UploadersConfig.json
+2020-11-01 12:01:02.895 - HotkeysConfig save started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\HotkeysConfig.json
+2020-11-01 12:01:03.033 - HotkeysConfig save successful: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\HotkeysConfig.json
+2020-11-01 12:01:03.034 - ShareX closed.
+2020-11-01 20:34:50.579 - ShareX starting.
+2020-11-01 20:34:50.588 - Version: 13.2.1
+2020-11-01 20:34:50.588 - Build: MicrosoftStore
+2020-11-01 20:34:50.588 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_13.2.1.0_x64__egrzcvs15399j\ShareX.exe" 
+2020-11-01 20:34:50.589 - Personal path: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)
+2020-11-01 20:34:50.589 - Personal path detection method: PersonalPath.cfg file (C:\Users\Aviv\Documents\ShareX\PersonalPath.cfg)
+2020-11-01 20:34:50.591 - Operating system: Windows 10 Enterprise N (64-bit)
+2020-11-01 20:34:50.592 - Running as elevated process: False
+2020-11-01 20:34:50.626 - Flags: SilentRun
+2020-11-01 20:34:50.679 - ApplicationConfig load started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\ApplicationConfig.json
+2020-11-01 20:34:51.677 - ApplicationConfig load finished: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\ApplicationConfig.json
+2020-11-01 20:34:51.685 - UploadersConfig load started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\UploadersConfig.json
+2020-11-01 20:34:51.690 - MainForm init started.
+2020-11-01 20:34:51.903 - UploadersConfig load finished: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\UploadersConfig.json
+2020-11-01 20:34:51.910 - HotkeysConfig load started: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\HotkeysConfig.json
+2020-11-01 20:34:52.148 - HotkeysConfig load finished: C:\Users\Aviv\OneDrive\FINAL PROJECT - PRACTICAL ENGINEER\in-button pixels (functions)\HotkeysConfig.json
+2020-11-01 20:34:52.471 - MainForm init finished.
+2020-11-01 20:34:53.243 - Startup time: 2857 ms
+2020-11-01 20:34:53.279 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2020-11-01 20:34:53.279 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2020-11-01 20:34:53.280 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2020-11-01 20:34:53.280 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2020-11-01 20:34:53.280 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2020-11-01 20:34:53.283 - HotkeyManager started.
+2020-11-01 20:34:53.285 - WatchFolderManager started.

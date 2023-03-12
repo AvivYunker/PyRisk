@@ -1,0 +1,16 @@
+# WHAT TEXT DO WE NEED?
+# FORTIFY # 7
+# 012345, click on territories to fortify! # 40
+# ABCDEF has been fortified! # 26
+# north-west-territory has been fortified! # 40
+# ACEGHK has been fortified! # 26
+# ATTACK # 6 chars
+# 012345, select attacking territory! # 35
+# 012345, select territory to attack! # 35
+# MOVE # 4
+# 012345, select source territory! # 32
+# 012456, select destination territory! # 37
+
+# 012345, you cannot attack your allies. Try again.
+# 012345, not enough forces to move.
+# 012345 is attacking 543210
